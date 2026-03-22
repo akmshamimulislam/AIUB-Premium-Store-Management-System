@@ -1,9 +1,11 @@
 # 🛒 AIUB Premium Store Management System
 
-![Java](https://img.shields.io/badge/Language-Java-blue)
-![OOP](https://img.shields.io/badge/Concept-OOP-green)
-![GUI](https://img.shields.io/badge/UI-Java%20Swing-orange)
-![Status](https://img.shields.io/badge/Project-Academic-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blue"/>
+  <img src="https://img.shields.io/badge/Concept-OOP-green"/>
+  <img src="https://img.shields.io/badge/UI-Java%20Swing-orange"/>
+  <img src="https://img.shields.io/badge/Project-Academic-lightgrey"/>
+</p>
 
 ---
 
@@ -11,16 +13,22 @@
 
 A **Java GUI-based Store Management System** developed for the **Object-Oriented Programming (OOP-1)** course.
 
-This application simulates a real-world store where users can purchase items, and admins can manage inventory and sales efficiently.
+This application simulates a real-world retail store where users can purchase items, while administrators can manage inventory, pricing, and sales records efficiently.
+
+---
+
+## 📅 Project Information
+
+* 📆 **Project Created:** January 17, 2026
+* 🎓 **Course:** Object-Oriented Programming (OOP-1)
+* 👥 **Team Size:** 2 Members
 
 ---
 
 ## 👥 Team
 
-> 🎓 This was a **2-person group project** for the **OOP-1 course**
-
-* 👤 **Member 1:** A. K. M SHAMIMUL ISLAM (ME)
-* 👤 **Member 2:** MOHAMMAD TAYEB AL MAHDI
+* 👤 **A. K. M Shamimul Islam** *(You)*
+* 👤 **Mohammad Tayeb Al Mahdi**
 
 ---
 
@@ -28,17 +36,17 @@ This application simulates a real-world store where users can purchase items, an
 
 ### 🛍️ Customer Side
 
-* Select items (Fruits, Vegetables, Meat)
-* Real-time total calculation
-* Payment method selection (Cash/Card)
-* Receipt generation and storage
+* 🧺 Select items from multiple categories
+* ⚡ Real-time total price calculation
+* 💳 Payment method selection (Cash / Card)
+* 🧾 Automatic receipt generation
 
 ### 🔐 Admin Side
 
-* Secure login system
-* Update stock and price
-* View complete sales history
-* Track total accumulated sales
+* 🔑 Secure login system
+* 📦 Update stock and pricing
+* 📊 View complete sales history
+* 💰 Track total accumulated sales
 
 ---
 
@@ -74,8 +82,22 @@ AIUB-Store-Management
  ┃ ┣ inventory.txt
  ┃ ┣ sales.txt
  ┃ ┗ totalSales.txt
+ ┣ ss
+ ┃ ┗ Picture1.png
  ┗ Main.java
 ```
+
+---
+
+## 🖥️ Screenshot
+
+<p align="center">
+  <img src="ss/Picture1.png" width="900"/>
+</p>
+
+<p align="center">
+  📌 Main interface showing product categories, live cart, and admin controls
+</p>
 
 ---
 
@@ -84,13 +106,14 @@ AIUB-Store-Management
 ### 🔧 Requirements
 
 * Java JDK 8 or higher
-* Any IDE (IntelliJ / Eclipse / NetBeans)
+* IntelliJ IDEA / Eclipse / NetBeans / VS CODE
 
 ### ▶️ Steps
 
-1. Open the project in your IDE
-2. Make sure the `Report` folder exists
-3. Run `Main.java`
+1. Clone the repository
+2. Open in your preferred IDE
+3. Ensure the `Report` folder exists
+4. Run `Main.java`
 
 ---
 
@@ -113,26 +136,18 @@ Password: pass1234
 
 ---
 
-## 💡 How It Works
+## 💡 System Workflow
 
 1. User selects product quantities
-2. System calculates total instantly
+2. System calculates total dynamically
 3. On confirming sale:
 
-   * Validates stock
-   * Updates inventory
-   * Saves receipt
-   * Updates total sales
+   * ✅ Validates stock
+   * 🔄 Updates inventory
+   * 🧾 Generates receipt
+   * 💰 Updates total sales
 
 ---
-
-## 🖥️ Screenshot
-
-
-!![AIUB Store GUI](ss/Picture1.png)
-
-> 📌 Main interface of the AIUB Premium Store Management System showing product categories, live cart, and admin controls.
-
 
 ## 📊 Sample Output
 
@@ -149,29 +164,21 @@ TOTAL: ৳6295.00
 
 ## 📖 Learning Outcomes
 
-* Practical implementation of OOP concepts
-* Java Swing GUI development
-* File handling (read/write)
-* Team collaboration
-* Real-world system design
-
----
-
-## 🔮 Future Improvements
-
-* Database integration (MySQL)
-* JavaFX UI upgrade
-* Online ordering system
-* Advanced authentication system
+* ✔️ Strong understanding of OOP principles
+* ✔️ Hands-on experience with Java Swing GUI
+* ✔️ File handling (read/write operations)
+* ✔️ Team collaboration and project structuring
+* ✔️ Real-world system simulation
 
 ---
 
 ## 📜 License
 
-This project is for **academic purposes only**.
+This project is developed for **academic purposes only**.
 
 ---
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+
