@@ -27,7 +27,7 @@ This application simulates a real-world retail store where users can purchase it
 
 ## 👥 Team
 
-* 👤 **A. K. M Shamimul Islam** *(You)*
+* 👤 **A. K. M Shamimul Islam** *(ME)*
 * 👤 **Mohammad Tayeb Al Mahdi**
 
 ---
