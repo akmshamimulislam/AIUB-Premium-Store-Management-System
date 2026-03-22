@@ -19,8 +19,8 @@ This application simulates a real-world store where users can purchase items, an
 
 > 🎓 This was a **2-person group project** for the **OOP-1 course**
 
-* 👤 **Member 1:** Your Name
-* 👤 **Member 2:** Teammate Name
+* 👤 **Member 1:** A. K. M SHAMIMUL ISLAM (ME)
+* 👤 **Member 2:** MOHAMMAD TAYEB AL MAHDI
 
 ---
 
@@ -87,10 +87,6 @@ AIUB-Store-Management
 * Any IDE (IntelliJ / Eclipse / NetBeans)
 
 ### ▶️ Steps
-
-```
-git clone https://github.com/your-username/aiub-store-management.git
-```
 
 1. Open the project in your IDE
 2. Make sure the `Report` folder exists
