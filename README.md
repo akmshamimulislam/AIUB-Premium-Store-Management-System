@@ -129,7 +129,7 @@ Password: pass1234
 ## 🖥️ Screenshot
 
 
-![AIUB Store GUI]
+!![AIUB Store GUI](ss/Picture1.png)
 
 > 📌 Main interface of the AIUB Premium Store Management System showing product categories, live cart, and admin controls.
 
